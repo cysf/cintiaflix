@@ -1,101 +1,91 @@
 {
     "categorias": [
       {
-        "titulo": "Front End",
-        "link": "https://www.alura.com.br/formacao-front-end",
+        "titulo": "Automação de Testes",
         "cor": "#6BD1FF",
-        "link_extra": {
-          "text": "Formação de Front End na Alura",
-          "url": "https://www.alura.com.br/cursos-online-front-end"
-        },
         "videos": [
           {
-            "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+            "titulo": "Introdução a Automação de Especificações com BDD e Ruby",
+            "url": "https://www.youtube.com/watch?v=wsu7922eHlA&t=5400s"
           },
           {
-            "titulo": "SEO com React",
-            "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+            "titulo": "Esqueça o tradicional. Pense BDD",
+            "url": "https://www.youtube.com/watch?v=GKXS-6o47RA&t=321s"
           },
           {
-            "titulo": "Componentização com VanillaJS #AluraMais",
-            "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+            "titulo": "TESTE DE SOFTWARE: por onde começar",
+            "url": "https://www.youtube.com/watch?v=NnamjfPYuiY"
           },
           {
-            "titulo": "Pare de chutar e aprenda a display: inline #01",
-            "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+            "titulo": "O QUE TESTADORES DEVERIAM SABER",
+            "url": "https://www.youtube.com/watch?v=kvjV03Mas_U"
           },
           {
-            "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-            "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+            "titulo": "Selenium (Testes Automatizados) // Dicionário do Programador",
+            "url": "https://www.youtube.com/watch?v=Fw9YW5_MZRs"
           },
           {
-            "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+            "titulo": "Conhecimento Java para automatizar testes no Selenium WebDriver",
+            "url": "https://www.youtube.com/watch?v=YPTlx9vbikM&t=189s"
           },
           {
-            "titulo": "Novidades do Angular v9",
-            "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-          },
-          {
-            "titulo": "Base para aprender os frameworks",
-            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-          }        
+            "titulo": "O QUE É UMA API? ENTENDA DE UMA VEZ POR TODAS",
+            "url": "https://www.youtube.com/watch?v=TSLoQzJ-6mw"
+          }   
         ]
       },
       {
-        "titulo": "Back End",
+        "titulo": "Dante",
         "cor": "#00C86F",
         "link_extra": {
-          "text": "Cursos de Back End na Alura",
-          "url": "https://www.alura.com.br/cursos-online-programacao"
+          "text": "Vídeos preferidos do pimpolho",
+          "url": "https://www.youtube.com/watch?v=kz33f2xvr04"
         },
         "videos": [
           {
-            "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-            "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+            "titulo": "Mario & Sonic at the Olympic Games Tokyo 2020 - All Team Sonic Characters",
+            "url": "https://www.youtube.com/watch?v=LaPkUidJFNs"
           },
           {
-            "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-            "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+            "titulo": "Mario Party 10 - All Bosses (No Damage)",
+            "url": "https://www.youtube.com/watch?v=lsjGsIJEBxw"
           },
           {
-            "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-            "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+            "titulo": "Sonic X PT PT - Episódio 01.",
+            "url": "https://www.youtube.com/watch?v=0kpXbNEitNE&list=PL40ZsdsdyFHupKtcxMUB_1gQ6weZ-4gJo"
           },
           {
-            "titulo": "API: Dicionário do Programador",
-            "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+            "titulo": "Peppa Pig Português Brasil | Peppa vai ao teatro | Desenhos Animados",
+            "url": "https://www.youtube.com/watch?v=Dmc34I0hkD4"
           }, 
           {
-            "titulo": "Usando Git Direito",
-            "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+            "titulo": "A Flor 🌻- episodio completo de Cleo e Cuquin em portugues | Familia Telerin no SBT",
+            "url": "https://www.youtube.com/watch?v=ElXK7ONui5c"
           }
         ]
       },
       {
-        "titulo": "Data Science e Inteligência Artificial",
+        "titulo": "Artesanato",
         "cor": "#9cd33b",
         "link_extra": {
-          "text": "Cursos de Data Science na Alura",
-          "url": "https://www.alura.com.br/formacao-data-science"
+          "text": "Cursos de Artesanatos em Geral"
         },
         "videos": [
           {
-            "titulo": "Teste de Turing",
-            "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+            "titulo": "Amigurumi do Zero #1 - Materiais Básicos + Correntinha",
+            "url": "https://www.youtube.com/watch?v=AilLf-Ql4iQ&t=46s"
           },
           {
-            "titulo": "O que é Data Science?",
-            "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+            "titulo": "Iniciante Feltro - Material Basico, Ponto Caseado e Enchimento da peça",
+            "url": "https://www.youtube.com/watch?v=LKxNBJZ7DzQ"
           },
           {
-            "titulo": "Melhor forma de aprender Python",
-            "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+            "titulo": "TAPETE AMARRADINHO , MAIS FÁCIL DE FAZER😉",
+            "url": "https://www.youtube.com/watch?v=aclodkX2IW8"
           },
           {
-            "titulo": "Como ingressar no mercado de Data Science?",
-            "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+            "titulo": "Como cortar o tecido corretamente?",
+            "url": "https://www.youtube.com/watch?v=OgM7EruSiBA"
           }
         ]
       },
@@ -104,80 +94,78 @@
         "cor": "orange",
         "videos": [
           {
-            "titulo": "Interestellar",
-            "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+            "titulo": "Goonies",
+            "url": "https://www.youtube.com/watch?v=jtYlQdBnzwI&list=PLO0U38TZpj7Uh3B5CmdLDHg1f5t8tvA_s"
           },
           {
-            "titulo": "Gattaca",
-            "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+            "titulo": "A História sem Fim",
+            "url": "https://www.youtube.com/watch?v=lBFqSBuI6w0"
           },
           {
-            "titulo": "A Chegada",
-            "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+            "titulo": "Edward Mão de Tesoura",
+            "url": "https://www.youtube.com/watch?v=G4XN-vTgpsc"
           },
           {
-            "titulo": "Feitiço do Tempo",
-            "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+            "titulo": "A Lagoa Azul",
+            "url": "https://www.youtube.com/watch?v=qSzKXgMkNes"
           }
         ]
       },
       {
-        "titulo": "Games",
+        "titulo": "Culinária",
         "cor": "red",
         "link_extra": {
-          "text": "Formação de Jogos na Alura",
-          "url": "https://www.alura.com.br/formacao-jogos-unity"
+          "text": "Canais de Culinária"
         },
         "videos": [
           {
-            "titulo": "Final Fantasy 7",
-            "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+            "titulo": "Bolo Nescau",
+            "url": "https://www.youtube.com/watch?v=skdufi9rDMo&t=201s"
           },
           {
-            "titulo": "Assassins Creed Valhalla",
-            "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+            "titulo": "Molho de Tomate",
+            "url": "https://www.youtube.com/watch?v=IHtT4IzVEjg"
           },
           {
-            "titulo": "God of War 4",
-            "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+            "titulo": "Lamen",
+            "url": "https://www.youtube.com/watch?v=6POhwWwZG0k"
           },
           {
-            "titulo": "Resident Evil 8",
-            "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+            "titulo": "Batata Frita",
+            "url": "https://www.youtube.com/watch?v=dNGed9DxpI8"
           },
           {
-            "titulo": "Pokémon Let's Go Pikachu/Eevee",
-            "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+            "titulo": "Cookies",
+            "url": "https://www.youtube.com/watch?v=9NIatksOlLE"
           }
         ]
       },
       {
-        "titulo": "Aprendendo a aprender tecnologia",
+        "titulo": "Blogueiras",
         "cor": "#6b5be2",
         "link_extra": {
-          "text": "Curso sobre aprendizado na Alura",
-          "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+          "text": "Dicas de Belezas com as Blogueiras"
         },
         "videos": [
           {
-            "titulo": "Como estudar melhor?",
-            "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+            "titulo": "Joice Kitamura",
+            "url": "https://www.youtube.com/watch?v=rk8N-7exG3U&t=17s"
           },
           {
-            "titulo": "Faculdade",
-            "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+            "titulo": "Bruna Malheiros",
+            "url": "https://www.youtube.com/watch?v=8O1TtjBQfco"
           },
           {
-            "titulo": "Frameworks",
-            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+            "titulo": "Alice Salazar",
+            "url": "https://www.youtube.com/watch?v=HrqwdXPSEzI"
           },
           {
-            "titulo": "A mágica do Aprendizado",
-            "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+            "titulo": "Pausa para Feminices",
+            "url": "https://www.youtube.com/watch?v=rPgs7PCgTf8"
           },
           {
-            "titulo": "Como aprender a programar?",
-            "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+            "titulo": "Cindy Oh",
+            "url": "https://www.youtube.com/watch?v=72cRa8Hmu_I"
           }
         ]
       }
